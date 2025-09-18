@@ -1,3 +1,6 @@
+# airline-management-system
+A console-based airline reservation system
+
 Airline Management System 
 A full-featured Django web application for managing airlines, flights, passengers, and bookings. This project demonstrates core Django concepts, including models, views, templates, forms, and the admin interface.
 Features
