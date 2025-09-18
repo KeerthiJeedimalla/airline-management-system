@@ -1,4 +1,4 @@
-Airline Management System 
+Airline Management System ✈️
 A full-featured Django web application for managing airlines, flights, passengers, and bookings. This project demonstrates core Django concepts, including models, views, templates, forms, and the admin interface.
 Features
 Flight Management: View a list of all available flights with details like origin, destination, and duration.
